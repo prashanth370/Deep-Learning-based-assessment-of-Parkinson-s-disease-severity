@@ -1,0 +1,4 @@
+normal
+severe
+stage1
+stage2
